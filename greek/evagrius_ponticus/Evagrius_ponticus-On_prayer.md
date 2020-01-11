@@ -1,4 +1,7 @@
-# Evagrius, *On Prayer*
+# Evagrius Ponticus, *On Prayer*
+
+## Translator’s Note:
+TODO
 
 ## 1
 If you wish to prepare a “fragrant offering,” you should combine in equal measure diaphanous frankincense, cassia, the aroma onyx, and myrrh, just as the law requires— these are the four virtues. For when these are perfected and present in equal measure, your mind will not be betrayed to the enemy.
@@ -322,4 +325,157 @@ If in your prayer you are standing before God, who is sovereign over everything,
 Just as bread is food for the body, and virtue is for the soul, so also spiritual prayer is the food of the mind.
 
 ## 102
-Continue in your prayer not like the pharisee, but like the tax collector in the holy place of prayer, so that you too may be made right by God. 
+Continue in prayer not like the pharisee, but like the tax collector in the holy place of prayer, so that you too may be made right by God. 
+
+# 103
+Strive never to utter a curse against anyone in your prayer, so that you do not destroy what you are building and thereby turn your prayer into something abhorrent. 
+
+# 104
+The debtor who owed thousands of talents should be your instructor– if you don’t forgive those you who wrong you, you also will not receive forgiveness. It says, after all, “he handed him over to the guards.”  
+
+# 105
+TODO
+
+# 106
+TODO
+
+# 107
+TODO
+
+# 108
+TODO
+
+# 109
+TODO
+
+# 110
+TODO
+
+# 111
+TODO
+
+# 112
+TODO
+
+# 113
+TODO
+
+# 114
+TODO
+
+# 115
+TODO
+
+# 116
+TODO
+
+# 117
+TODO
+
+# 118
+TODO
+
+# 119
+TODO
+
+# 120
+TODO
+
+# 121
+TODO
+
+# 122
+TODO
+
+# 123
+TODO
+
+# 124
+TODO
+
+# 125
+TODO
+
+# 126
+TODO
+
+# 127
+TODO
+
+# 128
+TODO
+
+# 129
+TODO
+
+# 130
+TODO
+
+# 131
+TODO
+
+# 132
+TODO
+
+# 133
+TODO
+
+# 134
+TODO
+
+# 135
+TODO
+
+# 136
+TODO
+
+# 137
+TODO
+
+# 138
+TODO
+
+# 139
+TODO
+
+# 140
+TODO
+
+# 141
+TODO
+
+# 142
+TODO
+
+# 143
+TODO
+
+# 144
+TODO
+
+# 145
+TODO
+
+# 146
+TODO
+
+# 147
+TODO
+
+# 148
+TODO
+
+# 149
+TODO
+
+# 150
+TODO
+
+# 151
+TODO
+
+# 152
+TODO
+
+# 153
+TODO
