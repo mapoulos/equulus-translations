@@ -344,10 +344,10 @@ It has come down to us that the devil once opposed one of the holy men to such a
 We have learned that the same sort of thing also happened for the solitary monk of the lake, I mean John the small, who was in fact a supremely great monk. He remained motionless in the presence of God even when the devil appeared to him in the form of a serpent, wrapped itself around him, squeezed his flesh, and spat in his face. 
 
 # 108
-You have doubtless also read the Lives of the Monks of Tabennese, where it states that while Abba Theodore was preaching to the brothers two vipers slithered up to his feet. He treated them as though there were simple beetles and welcomed them in until he had completed his sermon. Then showed them to the brothers and provided explanation of the whole matter. 
+You have doubtless also read the Lives of the Monks of Tabennese, where it states that while Abba Theodore was preaching to the brothers, two vipers slithered up to his feet. He treated them as though there were simple beetles and welcomed them in until he had completed his sermon. Then he showed them to the brothers and provided an explanation of the whole matter. 
 
 # 109
-TODO
+Again, of a different spiritual brother we have read that while he was praying a viper came and sank its teeth into his foot. The brother, however, did not set down his hands until he had finished his customary prayer. He was in no way harmed, for he had loved God more than he loved himself. 
 
 # 110
 TODO
