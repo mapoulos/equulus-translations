@@ -350,7 +350,7 @@ You have doubtless also read the Lives of the Monks of Tabennese, where it state
 Again, of a different spiritual brother we have read that while he was praying a viper came and sank its teeth into his foot. The brother, however, did not set down his hands until he had finished his customary prayer. He was in no way harmed, for he had loved God more than he loved himself. 
 
 # 110
-TODO
+Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^1] live in accordance with your mind. 
 
 # 111
 TODO
@@ -480,3 +480,5 @@ TODO
 
 # 153
 TODO
+
+[^1]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
