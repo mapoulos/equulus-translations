@@ -353,10 +353,10 @@ Again, of a different spiritual brother we have read that while he was praying a
 Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^1] live in accordance with your mind. 
 
 # 111
-TODO
+Demons once approached another holy man while he was praying in stillness with great vigor in the desert. For two weeks they would toss and throw him into the air and catch him on a mat. Yet they were unable even for a brief moment to draw his mind away from its fiery prayer. 
 
 # 112
-TODO
+Again, two angels once approached another friend of God as he was walking in the desert and exercising great care in his prayer. They came along either side of him and started walking along the way with him. Yet he did not give over all of his attention to them so that he would not lose what was greater. After all, he had kept in mind the statement of the apostle that says, “neither angels nor rulers nor spiritual powers will be able to separate us from love of God.” 
 
 # 113
 TODO
