@@ -359,10 +359,10 @@ Demons once approached another holy man while he was praying in stillness with g
 Again, two angels once approached another friend of God as he was walking in the desert and exercising great care in his prayer. They came along either side of him and started walking along the way with him. Yet he did not give over all of his attention to them so that he would not lose what was greater. After all, he had kept in mind the statement of the apostle that says, “neither angels nor rulers nor spiritual powers will be able to separate us from love of God.” 
 
 # 113
-TODO
+A monk becomes “equal to the angels” by desiring through true prayer to gaze upon the face of the Father in Heaven. 
 
 # 114
-TODO
+In your prayer, you mustn’t seek to receive any form, shape, or color.
 
 # 115
 TODO
