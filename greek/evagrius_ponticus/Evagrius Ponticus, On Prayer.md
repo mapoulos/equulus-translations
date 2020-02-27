@@ -365,10 +365,10 @@ A monk becomes “equal to the angels” by desiring through true prayer to gaze
 In your prayer, you mustn’t seek to receive any form, shape, or color.
 
 # 115
-TODO
+Do not continue desiring to see with your physical eye angels or spiritual powers or Christ. If you do, even after becoming sovereign over your own mind you might take in a wolf instead of the shepherd and worship the demons that are so hostile to you.
 
 # 116
-TODO
+The origin of a deceived mind is empty glory. When the mind is moved by this, it tries with mental forms and constructs to circumscribe the divine.
 
 # 117
 TODO
