@@ -371,10 +371,10 @@ Do not continue desiring to see with your physical eye angels or spiritual power
 The origin of a deceived mind is empty glory. When the mind is moved by this, it tries with mental forms and constructs to circumscribe the divine.
 
 # 117
-TODO
+I will now say what I have also said to the younger monks– happy is the mind that at the time of prayer has obtained complete formlessness.
 
 # 118
-TODO
+Happy is the mind that through undistracted praying continually receives more longing for God.  
 
 # 119
 TODO
