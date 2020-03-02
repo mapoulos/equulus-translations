@@ -374,10 +374,10 @@ The origin of a deceived mind is empty glory. When the mind is moved by this, it
 I will now say what I have also said to the younger monks– happy is the mind that at the time of prayer has obtained complete formlessness.
 
 # 118
-Happy is the mind that through undistracted praying continually receives more longing for God.  
+Happy is the mind that through undistracted praying continually receives greater longing for God.  
 
 # 119
-TODO
+Happy is the mind that at the time of prayer becomes completely detached from material and possessions. 
 
 # 120
 TODO
