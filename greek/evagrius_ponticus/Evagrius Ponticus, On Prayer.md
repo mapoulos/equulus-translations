@@ -380,10 +380,10 @@ Happy is the mind that through undistracted praying continually receives greater
 Happy is the mind that at the time of prayer becomes completely detached from material and possessions. 
 
 # 120
-TODO
+Happy is the mind that at the time of prayer possesses complete detachment from the senses.
 
 # 121
-TODO
+Happy is the monk who continues to regard himself as the “refuse of all.”  
 
 # 122
 TODO
