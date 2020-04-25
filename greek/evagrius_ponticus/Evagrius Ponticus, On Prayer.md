@@ -386,19 +386,19 @@ Happy is the mind that at the time of prayer possesses complete detachment from 
 Happy is the monk who continues to regard himself as the “refuse of all.”  
 
 # 122
-Happy is the monk who looks eagerly with great delight on the flourishing and advancement of all as though it was his own.  
+Happy is the monk who regards every human being as one deity after another.
 
 # 123
-A monk is one who is separated from and joined together will all.  
+Happy is the monk who looks eagerly with great delight on the flourishing and advancement of all as though it was his own.  
 
 # 124
-TODO
+A monk is one who is separated from all and joined together with all.  
 
 # 125
-TODO
+A monk is one who seess himself together with all, since he seems again and again to see himself in each person he meets.
 
 # 126
-TODO
+The one truly prays who continually offers the first fruit of their thought to God. 
 
 # 127
 TODO
