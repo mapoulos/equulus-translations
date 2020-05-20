@@ -401,28 +401,28 @@ A monk is one who seess himself together with all, since he seems again and agai
 The one truly prays who continually offers the first fruit of their thought to God. 
 
 # 127
-TODO
+Avoid every falsehood and oath, as befits a monk and one who desires to carry out prayer. If you don't, you'll conjecture in vain that which is beyond comparison.
 
 # 128
-TODO
+If you wish to carry out your prayer in the Spirit, have contempt for no one. Then you will not have a darkening fog over you at the time of prayer.
 
 # 129
-TODO
+Entrust the needs of your body to God. It is plain that you must also entrust to God those of your spirit.
 
 # 130
-TODO
+When you obtain the promises, you will preside as a king. So then, by keeping your eye fixed on these, you will easily bear your present poverty.
 
 # 131
-TODO
+Do not go on shirking poverty and affliction, the very stuff of uninhibited prayer.
 
 # 132
-TODO
+Let the virtues of the body serve as collateral for those of the soul, the virtues of the soul as collateral for the virtues of spirit, and these last as surety for knowledge is what is immaterial and exists most fundamentally.
 
 # 133
-TODO
+As you are praying against compulsive thoughts, take careful note, should they withdraw, of the source of this. Otherwise you may fall prey to a trick and in your deception hand yourself over.
 
 # 134
-TODO
+Sometimes demons suggest thoughts to you and thereby incite you to say a prayer against them or to oppose them. They then willingly retreat so that you may be deceived in thinking of yourself that you have begun to conquer thoughts and scare off demons.
 
 # 135
 TODO
