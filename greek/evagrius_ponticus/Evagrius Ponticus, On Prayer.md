@@ -425,60 +425,66 @@ As you are praying against compulsive thoughts, take careful note, should they w
 Sometimes demons suggest thoughts to you and thereby incite you to say a prayer against them or to oppose them. They then willingly retreat so that you may be deceived in thinking of yourself that you have begun to conquer thoughts and scare off demons.
 
 # 135
-TODO
+If you are praying against a compulsive thought or a demon that is besieging you, remember the one who says, “I will pursue my enemies and overtake them. I will not turn back until they withdraw. I will afflict them and surely they will not be able to stand. They will fall under my feet,” and the rest (Psalm 17:38-39).￼ At the right moment you should say this, thereby arming yourself with humility against your enemies.
 
 # 136
-TODO
+Don't think that you have obtained virtue until you have endured a battle for it “to the point of blood.”  According to God’s apostle, we must even to the point of death stand against sin like a combatant yet without reproach. 
 
 # 137
-TODO
+If you do something good for someone, you're likely to be contemned by someone else, with the result that you say or do something unfitting because you have been wronged. By this you profligately scatter what you had so carefully gathered. This is the wicked demons’ goal. So pay careful attention!
 
 # 138
-TODO
+Again and again, accept the awful onslaught of the demons,[^2] all the while planning how you might escape enslavement to them.
 
 # 139
-TODO
+At night demons choose to trouble a spiritual teacher through direct activity. During the day, they do it through people— they surround a teacher with crowds, flatterers, and dangers.
 
 # 140
-TODO
+Do not go on shirking the fuller,[^3] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
 
 # 141
-TODO
+To the degree that you have not rejected compulsions, but have a mind opposed to virtue and truth, you will not find a fragrant offering of incense in your breast.
 
 # 142
-TODO
+The one who has emigrated from these parts and has their “citizenship in heaven” yearns to carry out their prayer at all moments, not only through mere words, but with action like that of angels and a knowledge more divine still.
 
 # 143
-TODO
+If in difficulty you only remember of the judge that he is fear-inducing and exacting, you have not yet learned what it means to “serve the Lord in fear and rejoice in him in trembling.” After all, you should realize that it is in times of spiritual ease and celebration that you must worship him all the more with respect and reverence.
 
 # 144
-TODO
+Prudent is the man who does not put off the bitter memory of his own sins and the just recompense that they deserve in the fire of the age to come until his repentance is perfect. 
 
 # 145
-TODO
+The one who is caught up in their sins and fits of anger and dares brashly to strive for knowledge of more exalted matters, or rather, rushes into immaterial prayer, ought to listen to the apostle’s admonishment that it is not without danger for them to “pray” with a bare “and uncovered head.”  For this sort of soul, he says, “must have a covering of authority on it because of the angels” that are present, which is to say it must clothe itself with a fitting humility and reverence.
 
 # 146
-TODO
+Just as the one who has a disease of the eyes will not benefit from an uncovered view of the sun in broad daylight, similarly receiving a firm impression in one's mind of that prayer that is fearsome and beyond nature, which comes in Spirit and in Truth, is no use at all to the mind that is impure and overwhelmed with compulsion. Quite the opposite: this goads the divine to indignation against it.
 
 # 147
-TODO
+If he who is impartial and lacks nothing has not received the one coming with a gift to the altar, until they are reconciled with the neighbor who is upset with them, take note of how much vigilance and discernment we need to give to God an acceptable offering in the altar of our mind.
 
 # 148
-TODO
+Do not take delight in material things or in your reputation. If you do, “sinners are contriving” not “behind your back” but before your eyes. You will be their plaything at the time of prayer since you'll be dragged about and enticed by them through thoughts of all sorts.
 
 # 149
-TODO
+Attention that has eagerly sought prayer will find it. For even if prayer is something distinct from attention, it follows close behind it, and so we must always strive for it.
 
 # 150
-TODO
+Just as sight is the greatest of the senses, so prayer is the most exalted of the virtues.
 
 # 151
-TODO
+Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^4] and “but when you all pray, do not babble endlessly.”
 
 # 152
-TODO
+To the degree and proportion that you attend to the body and your mind takes delight in the pleasures of its earthly tent, you have not yet beheld the place of prayer, but its happy road remains still far from you.
 
 # 153
-TODO
+When you become one who stands for prayer in preference to every other joy, then you have truly found prayer. 
 
 [^1]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
+
+[^2]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
+
+[^3]:	That is, someone who washes clothes.
+
+[^4]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
