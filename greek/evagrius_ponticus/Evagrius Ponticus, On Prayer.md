@@ -1,7 +1,34 @@
 # Evagrius Ponticus, *On Prayer*
 
 ## Translator’s Note:
+
+### How I came to *On Prayer*
+The world may not have needed another English translation of Evagrius’s masterful little treatise, *On Prayer*– in Joel Kalvesmaki’s marvelous list of [Evagrian translations](http://evagriusponticus.net/corpus.htm)  one finds 11 published since 1968. Fr. Luke Dysinger’s is even freely available in the [public domain](http://www.ldysinger.com/Evagrius/03_Prayer/00a_start.htm). But I needed to create one. Evagrius is not my scholarly specialty. I came to Evagrius through my interest in two of his most important predecessors: Origen of Alexandria and Gregory of Nazianzus. My [doctoral dissertation](https://alexpoulos.com/dissertation) dealt with the Gregory’s poetics; I’ve long been fascinated by Origen’s exegetical corpus, especially the [homilies](https://alexpoulos.com/origen/) on the Psalms that were discovered early in the last decade. After finishing my doctoral work in 2019 at the Catholic University of America, I resolved not to embrace the peripatetic lifestyle of the adjunct professor. My wife and I decided that we would stay in the Washington DC area and that I would return to writing software (you can read about this decision [here](https://alexpoulos.com/2019/10/02/htd-on-opting-out-of-the-tenure-track-search/)). Yet I wanted to continue reading and translating Greek. Evagrius’ little treatise proved an excellent way to stay connected to philology and to profit spiritually from close attention to the voice of a wise master.  
+
+### My Approach to Translating Evagrius
+The guiding principle of my translation has been spiritual utility. I’m convinced that Evagrius crafted these short observations to be used as objects of meditation during mental prayer. I want the translation to facilitate contemplation rather than distract with terms unfamiliar to the general reader (Indeed, it was my hope to use this translation within a [web app](https://tempora.equul.us) / mobile app to assist in centering prayer. I didn’t get so far as I’d have liked in this endeavor; hopefully I’ll get to polish it up sometime in the coming months). This focus has led to several decisions that may frustrate Evagrian specialists. First, I have not left Greek words untranslated. Fr. Dysinger, for instance, leaves the Greek word νοῦς (rendered here as “mind”) untranslated, a practice popular, from what I can tell, in recent translations of Evagrius. This refusal to translate is useful for the one reconstructing Evagrius’ thought, since the reader less likely to import Cartesian and post Cartesian discussions of mind/body into Evagrius’ different understanding of the components of the human person. Yet I think “mind” is perfectly useful translation of νοῦς, for which I can think of no better. A few other ideosyncrasies:
+
+- For πάθος, traditionally translated as “passion,” I have instead used the English word “compulsion.” I’ve found that most lay readers aren’t familiar with the philosophical sense of “passion” and get confused when finding that word in a negative context. “Compulsion” is perhaps too strong, but I think generally captures well what Evagrius means by the word πάθος.
+- I’ve tried to attend to the aspect of the verbs. For instance, I’ve often translated the aorist προσεύξασθαι as “to carry out your prayer” instead of merely “to pray.” Similarly with imperatives. For example, in section 5, I’ve translated   πρότερον περὶ λήψεως δακρύων **προσεύχου** as, “persist first in prayer to receive tears” (cf. Fr. Dysinger’s “First, pray to receive tears,”). The present, imperfective imperative (προσεύχου) emphasizes an ongoing process, not a single complete action. 
+
+## Author’s Prologue
+
+### 1
+
 TODO
+
+### 2
+TODO
+
+### 3
+TODO
+
+### 4
+TODO
+
+### 5
+TODO
+
 
 ## 1
 If you wish to prepare a “fragrant offering,” you should combine in equal measure diaphanous frankincense, cassia, the aroma onyx, and myrrh, just as the law requires— these are the four virtues. For when these are perfected and present in equal measure, your mind will not be betrayed to the enemy.
