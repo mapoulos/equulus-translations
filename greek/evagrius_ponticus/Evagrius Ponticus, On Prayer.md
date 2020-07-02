@@ -6,29 +6,21 @@
 The world may not have needed another English translation of Evagrius’s masterful little treatise, *On Prayer*– in Joel Kalvesmaki’s marvelous list of [Evagrian translations](http://evagriusponticus.net/corpus.htm)  one finds 11 published since 1968. Fr. Luke Dysinger’s is even freely available in the [public domain](http://www.ldysinger.com/Evagrius/03_Prayer/00a_start.htm). But I needed to create one. Evagrius is not my scholarly specialty. I came to Evagrius through my interest in two of his most important predecessors: Origen of Alexandria and Gregory of Nazianzus. My [doctoral dissertation](https://alexpoulos.com/dissertation) dealt with the Gregory’s poetics; I’ve long been fascinated by Origen’s exegetical corpus, especially the [homilies](https://alexpoulos.com/origen/) on the Psalms that were discovered early in the last decade. After finishing my doctoral work in 2019 at the Catholic University of America, I resolved not to embrace the peripatetic lifestyle of the adjunct professor. My wife and I decided that we would stay in the Washington DC area and that I would return to writing software (you can read about this decision [here](https://alexpoulos.com/2019/10/02/htd-on-opting-out-of-the-tenure-track-search/)). Yet I wanted to continue reading and translating Greek. Evagrius’ little treatise proved an excellent way to stay connected to philology and to profit spiritually from close attention to the voice of a wise master.  
 
 ### My Approach to Translating Evagrius
-The guiding principle of my translation has been spiritual utility. I’m convinced that Evagrius crafted these short observations to be used as objects of meditation during mental prayer. I want the translation to facilitate contemplation rather than distract with terms unfamiliar to the general reader (Indeed, it was my hope to use this translation within a [web app](https://tempora.equul.us) / mobile app to assist in centering prayer. I didn’t get so far as I’d have liked in this endeavor; hopefully I’ll get to polish it up sometime in the coming months). This focus has led to several decisions that may frustrate Evagrian specialists. First, I have not left Greek words untranslated. Fr. Dysinger, for instance, leaves the Greek word νοῦς (rendered here as “mind”) untranslated, a practice popular, from what I can tell, in recent translations of Evagrius. This refusal to translate is useful for the one reconstructing Evagrius’ thought, since the reader less likely to import Cartesian and post Cartesian discussions of mind/body into Evagrius’ different understanding of the components of the human person. Yet I think “mind” is perfectly useful translation of νοῦς, for which I can think of no better. A few other ideosyncrasies:
+The guiding principle of my translation has been spiritual utility. I’m convinced that Evagrius crafted these short observations to be used as objects of meditation during mental prayer. I want the translation to facilitate contemplation rather than distract with terms unfamiliar to the general reader or listener.[^1] This focus has led to several decisions that may frustrate Evagrian specialists. First, I have not left Greek words untranslated. Fr. Dysinger, for instance, leaves the Greek word νοῦς (rendered here as “mind”) untranslated, a practice popular, from what I can tell, in recent translations of Evagrius. This refusal to translate is useful for the one reconstructing Evagrius’ thought, since the reader is less likely to import Cartesian and post-Cartesian discussions of mind/body into Evagrius’ different understanding of the components of the human person. Yet to be useful to a general reader, we must pick an English word: mind is the most intelligible of the various choices. A few other ideosyncrasies:
 
 - For πάθος, traditionally translated as “passion,” I have instead used the English word “compulsion.” I’ve found that most lay readers aren’t familiar with the philosophical sense of “passion” and get confused when finding that word in a negative context. “Compulsion” is perhaps too strong, but I think generally captures well what Evagrius means by the word πάθος.
-- I’ve tried to attend to the aspect of the verbs. For instance, I’ve often translated the aorist προσεύξασθαι as “to carry out your prayer” instead of merely “to pray.” Similarly with imperatives. For example, in section 5, I’ve translated   πρότερον περὶ λήψεως δακρύων **προσεύχου** as, “persist first in prayer to receive tears” (cf. Fr. Dysinger’s “First, pray to receive tears,”). The present, imperfective imperative (προσεύχου) emphasizes an ongoing process, not a single complete action. 
+- I’ve tried to attend to the aspect of the verbs. For instance, I’ve often translated the aorist προσεύξασθαι as “to carry out your prayer” instead of merely “to pray.” Similarly with imperatives. For example, in section 5, I’ve translated   πρότερον περὶ λήψεως δακρύων **προσεύχου** as, “persist first in prayer to receive tears” (cf. Fr. Dysinger’s “First, pray to receive tears”). The present, imperfective imperative (προσεύχου) emphasizes an ongoing process, not a single complete action. 
+
+### Source Text
+TODO
+- Gehin, Dysinger, Kalvesmaki’s
+
+### Thanks
 
 ## Author’s Prologue
-
-### 1
+When I was being consumed by the flames of impure compulsions, you revived me through the touch of your letters, full as they were with love for God. You encouraged my mind while it was laboring with shameful thoughts, thereby imitating the great leader and teacher Macarius. This is not surprising, since like Jacob the “spotted cattle” have always been your portion.[^2] For after serving admirably for the favor of Rachel and receiving Leah, you persistently sought the wife you desired, and served for her another seven years.  I shall not deny that I labored the entire night and caught nothing.[^3] Yet at your word, I let down my nets and caught a multitude of fish, not large ones, yet all the same 153 of them. Through chapters of the same number, I have sent these to you in the large basket of Christian love to fulfill your command.  
 
 TODO
-
-### 2
-TODO
-
-### 3
-TODO
-
-### 4
-TODO
-
-### 5
-TODO
-
 
 ## 1
 If you wish to prepare a “fragrant offering,” you should combine in equal measure diaphanous frankincense, cassia, the aroma onyx, and myrrh, just as the law requires— these are the four virtues. For when these are perfected and present in equal measure, your mind will not be betrayed to the enemy.
@@ -377,7 +369,7 @@ You have doubtless also read the Lives of the Monks of Tabennese, where it state
 Again, of a different spiritual brother we have read that while he was praying a viper came and sank its teeth into his foot. The brother, however, did not set down his hands until he had finished his customary prayer. He was in no way harmed, for he had loved God more than he loved himself. 
 
 # 110
-Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^1] live in accordance with your mind. 
+Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^4] live in accordance with your mind. 
 
 # 111
 Demons once approached another holy man while he was praying in stillness with great vigor in the desert. For two weeks they would toss and throw him into the air and catch him on a mat. Yet they were unable even for a brief moment to draw his mind away from its fiery prayer. 
@@ -461,13 +453,13 @@ Don't think that you have obtained virtue until you have endured a battle for it
 If you do something good for someone, you're likely to be contemned by someone else, with the result that you say or do something unfitting because you have been wronged. By this you profligately scatter what you had so carefully gathered. This is the wicked demons’ goal. So pay careful attention!
 
 # 138
-Again and again, accept the awful onslaught of the demons,[^2] all the while planning how you might escape enslavement to them.
+Again and again, accept the awful onslaught of the demons,[^5] all the while planning how you might escape enslavement to them.
 
 # 139
 At night demons choose to trouble a spiritual teacher through direct activity. During the day, they do it through people— they surround a teacher with crowds, flatterers, and dangers.
 
 # 140
-Do not go on shirking the fuller,[^3] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
+Do not go on shirking the fuller,[^6] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
 
 # 141
 To the degree that you have not rejected compulsions, but have a mind opposed to virtue and truth, you will not find a fragrant offering of incense in your breast.
@@ -500,7 +492,7 @@ Attention that has eagerly sought prayer will find it. For even if prayer is som
 Just as sight is the greatest of the senses, so prayer is the most exalted of the virtues.
 
 # 151
-Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^4] and “but when you all pray, do not babble endlessly.”
+Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^7] and “but when you all pray, do not babble endlessly.”
 
 # 152
 To the degree and proportion that you attend to the body and your mind takes delight in the pleasures of its earthly tent, you have not yet beheld the place of prayer, but its happy road remains still far from you.
@@ -508,10 +500,16 @@ To the degree and proportion that you attend to the body and your mind takes del
 # 153
 When you become one who stands for prayer in preference to every other joy, then you have truly found prayer. 
 
-[^1]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
+[^1]:	 Indeed, it was my hope to use this translation within a [web app](https://tempora.equul.us) / mobile app to assist in centering prayer. I didn’t get so far as I’d have liked in this endeavor; hopefully I’ll get to polish it up sometime in the coming months.
 
-[^2]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
+[^2]:	A reference to Jacob’s agreement with Laban, narrated in Genesis 30, wherein Jacob would receive the spotted livestock as his wages for his service. Laban removed the speckled cattle before handing over the cattle to Jacob, but Jacob responded by using special staffs at breeding time to produce spotted cattle. 
 
-[^3]:	That is, someone who washes clothes.
+[^3]:	Now Evagrius shifts his allusion to John 21, where the disciples have been fishing all night and caught nothing. 
 
-[^4]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
+[^4]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
+
+[^5]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
+
+[^6]:	That is, someone who washes clothes.
+
+[^7]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
