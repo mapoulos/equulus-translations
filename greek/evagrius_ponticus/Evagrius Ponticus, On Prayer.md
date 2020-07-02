@@ -17,10 +17,12 @@ TODO
 
 ### Thanks
 
-## Author’s Prologue
+## Evagrius’ Prologue
 When I was being consumed by the flames of impure compulsions, you revived me through the touch of your letters, full as they were with love for God. You encouraged my mind while it was laboring with shameful thoughts, thereby imitating the great leader and teacher Macarius. This is not surprising, since like Jacob the “spotted cattle” have always been your portion.[^2] For after serving admirably for the favor of Rachel and receiving Leah, you persistently sought the wife you desired, and served for her another seven years.  I shall not deny that I labored the entire night and caught nothing.[^3] Yet at your word, I let down my nets and caught a multitude of fish, not large ones, yet all the same 153 of them. Through chapters of the same number, I have sent these to you in the large basket of Christian love to fulfill your command.  
 
-TODO
+I’m quite amazed and in awe of your passion for this excellent plan for chapters on prayer. Not only are you eager for the chapters that you can hold in your hand, which owe their existence to ink and paper, but you long for those that become fixed in place in the mind through love and freedom from all grudges. Since “everything is twofold, one after the other”, as the wise Jesus has it,[^4] receive the spirit in addition to the letters of the work. Take note that an intention always directs the letter, since without it, no literary work can come into being. Similarly, prayer is a twofold phenomenon– it has a practical element and a contemplative element. In the same way, numbers are twofold. Their quantity is ready to hand, while each also specifies a specific quality.
+
+By dividing this treatise on prayer into 153 chapters, we have caught for you a meal of fish from the Gospel, so that you may discover the delight of symbolic numbers and the outline of this work, which is both triangular and hexagonal, and thereby discloses equally a holy knowledge of the Trinity and an outline of this world. By itself, the number 100 is rectangular. 53 is both triangular and spherical. Now 28 is triangular, while 25 is spherical, since 5x5 is 25… TODO
 
 ## 1
 If you wish to prepare a “fragrant offering,” you should combine in equal measure diaphanous frankincense, cassia, the aroma onyx, and myrrh, just as the law requires— these are the four virtues. For when these are perfected and present in equal measure, your mind will not be betrayed to the enemy.
@@ -369,7 +371,7 @@ You have doubtless also read the Lives of the Monks of Tabennese, where it state
 Again, of a different spiritual brother we have read that while he was praying a viper came and sank its teeth into his foot. The brother, however, did not set down his hands until he had finished his customary prayer. He was in no way harmed, for he had loved God more than he loved himself. 
 
 # 110
-Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^4] live in accordance with your mind. 
+Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^5] live in accordance with your mind. 
 
 # 111
 Demons once approached another holy man while he was praying in stillness with great vigor in the desert. For two weeks they would toss and throw him into the air and catch him on a mat. Yet they were unable even for a brief moment to draw his mind away from its fiery prayer. 
@@ -453,13 +455,13 @@ Don't think that you have obtained virtue until you have endured a battle for it
 If you do something good for someone, you're likely to be contemned by someone else, with the result that you say or do something unfitting because you have been wronged. By this you profligately scatter what you had so carefully gathered. This is the wicked demons’ goal. So pay careful attention!
 
 # 138
-Again and again, accept the awful onslaught of the demons,[^5] all the while planning how you might escape enslavement to them.
+Again and again, accept the awful onslaught of the demons,[^6] all the while planning how you might escape enslavement to them.
 
 # 139
 At night demons choose to trouble a spiritual teacher through direct activity. During the day, they do it through people— they surround a teacher with crowds, flatterers, and dangers.
 
 # 140
-Do not go on shirking the fuller,[^6] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
+Do not go on shirking the fuller,[^7] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
 
 # 141
 To the degree that you have not rejected compulsions, but have a mind opposed to virtue and truth, you will not find a fragrant offering of incense in your breast.
@@ -492,7 +494,7 @@ Attention that has eagerly sought prayer will find it. For even if prayer is som
 Just as sight is the greatest of the senses, so prayer is the most exalted of the virtues.
 
 # 151
-Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^7] and “but when you all pray, do not babble endlessly.”
+Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^8] and “but when you all pray, do not babble endlessly.”
 
 # 152
 To the degree and proportion that you attend to the body and your mind takes delight in the pleasures of its earthly tent, you have not yet beheld the place of prayer, but its happy road remains still far from you.
@@ -506,10 +508,12 @@ When you become one who stands for prayer in preference to every other joy, then
 
 [^3]:	Now Evagrius shifts his allusion to John 21, where the disciples have been fishing all night and caught nothing. 
 
-[^4]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
+[^4]:	See. Sirach 42:24. Note the “wise Jesus” isJesus Ben Sira, not Jesus of Nazareth.  
 
-[^5]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
+[^5]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
 
-[^6]:	That is, someone who washes clothes.
+[^6]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
 
-[^7]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
+[^7]:	That is, someone who washes clothes.
+
+[^8]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
