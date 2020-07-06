@@ -3,26 +3,41 @@
 ## Translator’s Note:
 
 ### How I came to *On Prayer*
-The world may not have needed another English translation of Evagrius’s masterful little treatise, *On Prayer*– in Joel Kalvesmaki’s marvelous list of [Evagrian translations](http://evagriusponticus.net/corpus.htm)  one finds 11 published since 1968. Fr. Luke Dysinger’s is even freely available in the [public domain](http://www.ldysinger.com/Evagrius/03_Prayer/00a_start.htm). But I needed to create one. Evagrius is not my scholarly specialty. I came to Evagrius through my interest in two of his most important predecessors: Origen of Alexandria and Gregory of Nazianzus. My [doctoral dissertation](https://alexpoulos.com/dissertation) dealt with the Gregory’s poetics; I’ve long been fascinated by Origen’s exegetical corpus, especially the [homilies](https://alexpoulos.com/origen/) on the Psalms that were discovered early in the last decade. After finishing my doctoral work in 2019 at the Catholic University of America, I resolved not to embrace the peripatetic lifestyle of the adjunct professor. My wife and I decided that we would stay in the Washington DC area and that I would return to writing software (you can read about this decision [here](https://alexpoulos.com/2019/10/02/htd-on-opting-out-of-the-tenure-track-search/)). Yet I wanted to continue reading and translating Greek. Evagrius’ little treatise proved an excellent way to stay connected to philology and to profit spiritually from close attention to the voice of a wise master.  
+The world may not have needed another English translation of Evagrius’s masterful little treatise, *On Prayer*– in Joel Kalvesmaki’s marvelous list of [Evagrian translations](http://evagriusponticus.net/corpus.htm)  one finds 11 published since 1968. Fr. Luke Dysinger’s is even freely available in the [public domain](http://www.ldysinger.com/Evagrius/03_Prayer/00a_start.htm). But I needed to create one. Evagrius is not my scholarly specialty. I came to Evagrius through my interest in two of his most important predecessors: Origen of Alexandria and Gregory of Nazianzus. My [doctoral dissertation](https://alexpoulos.com/dissertation) dealt with Gregory’s poetics and poetic corpus; I’ve long been fascinated by Origen’s exegetical corpus, especially the [homilies](https://alexpoulos.com/origen/) on the Psalms that were discovered early in the last decade. After finishing my doctoral work in 2019 at the Catholic University of America, I resolved not to embrace the peripatetic lifestyle of the adjunct professor. My wife and I decided that we would stay in the Washington DC area and that I would return to writing software (you can read about this decision [here](https://alexpoulos.com/2019/10/02/htd-on-opting-out-of-the-tenure-track-search/)). Yet I wanted to continue reading and rendering Greek into English. Evagrius’ little treatise proved an excellent way to stay connected to philology and to profit spiritually through close attention to the voice of a wise master.  
+
+### Who was Evagrius?
+
+A monastic theologian, mystic, and philosopher, who lived 345–399 AD. For more info, see Kalvesmaki’s intro at [evagriusponticus.net](http://evagriusponticus.net/).
 
 ### My Approach to Translating Evagrius
-The guiding principle of my translation has been spiritual utility. I’m convinced that Evagrius crafted these short observations to be used as objects of meditation during mental prayer. I want the translation to facilitate contemplation rather than distract with terms unfamiliar to the general reader or listener.[^1] This focus has led to several decisions that may frustrate Evagrian specialists. First, I have not left Greek words untranslated. Fr. Dysinger, for instance, leaves the Greek word νοῦς (rendered here as “mind”) untranslated, a practice popular, from what I can tell, in recent translations of Evagrius. This refusal to translate is useful for the one reconstructing Evagrius’ thought, since the reader is less likely to import Cartesian and post-Cartesian discussions of mind/body into Evagrius’ different understanding of the components of the human person. Yet to be useful to a general reader, we must pick an English word: mind is the most intelligible of the various choices. A few other ideosyncrasies:
 
-- For πάθος, traditionally translated as “passion,” I have instead used the English word “compulsion.” I’ve found that most lay readers aren’t familiar with the philosophical sense of “passion” and get confused when finding that word in a negative context. “Compulsion” is perhaps too strong, but I think generally captures well what Evagrius means by the word πάθος.
-- I’ve tried to attend to the aspect of the verbs. For instance, I’ve often translated the aorist προσεύξασθαι as “to carry out your prayer” instead of merely “to pray.” Similarly with imperatives. For example, in section 5, I’ve translated   πρότερον περὶ λήψεως δακρύων **προσεύχου** as, “persist first in prayer to receive tears” (cf. Fr. Dysinger’s “First, pray to receive tears”). The present, imperfective imperative (προσεύχου) emphasizes an ongoing process, not a single complete action. 
+I have chosen spiritual utility as the primary goal of this translation. I’m convinced that Evagrius crafted these short observations to be used as objects of meditation during mental prayer. I want the translation to facilitate contemplation, not distract readers or listeners with unfamiliar terms.[^1] This focus has led to several decisions that may frustrate Evagrian specialists. First, I have not left Greek words untranslated, even pesky words like *nous* (rendered here as “mind”) and *logos* (rendered a variety of ways depending on context). The refusal to translate a word like *nous* is useful when reconstructing Evagrius’ thought, since the reader is less likely to import Cartesian and post-Cartesian discussions of mind/body into Evagrius’ different understanding of the human person. Yet to be useful to a general reader, we must pick an English word: mind is the most intelligible of the various choices. A few other idiosyncrasies:
+
+- For πάθος, traditionally translated as “passion,” I have instead used the English word “compulsion.” Most lay readers aren’t familiar with the philosophical sense of “passion” and get confused when they find that word in a negative context. “Compulsion” is perhaps too strong, but it generally captures well what Evagrius means by the word πάθος.
+- I’ve paid close attention to the aspect of the verbs. For instance, I’ve often translated the aorist προσεύξασθαι as “to carry out prayer” instead of merely “to pray.” Another example, in section 5, I’ve translated   πρότερον περὶ λήψεως δακρύων **προσεύχου** as, “persist first in prayer to receive tears” (cf. Fr. [Dysinger’s](http://www.ldysinger.com/Evagrius/03_Prayer/00a_start.htm) “First, pray to receive tears”). The present, imperfective imperative (προσεύχου) emphasizes an ongoing process, not a single complete action. 
+- I have generally used singular “they” instead of the generic “he”, to conform with my own idiom and the general changes in the English language. This will irk some, but I find it less awkward than the various circumlocutions one might employ to get around using it.
 
 ### Source Text
-TODO
-- Gehin, Dysinger, Kalvesmaki’s
+ 
+I have used Paul Géhin’s excellent recent edition of *On Prayer* as the basis for my translation.[^2] I naturally consulted his facing French version when I was puzzled by the Greek. I have not consulted systematically any of my fellow English translations; this affords my rendering a certain independence, but also means that I have made mistakes that could have been avoided. Should you spot something that looks off, do not hesitate to leave a comment below or write to me by [email](mailto:matpoulos@gmail.com) or [twitter](https://twitter.com/mapoulos).
+
 
 ### Thanks
 
+I must first thank three people connected with my alma mater, Catholic University of America. To Robin Darling Young ([Associate Professor of Church History](https://trs.catholic.edu/faculty-and-research/faculty-profiles/young-robin-darling/index.html)) and Carl Vennerstrom ([Doctoral Candidate in Early Christianity](https://cua.academia.edu/CarlVennerstrom)) I owe many fascinating conversations on Evagrius. I also profited greatly from listening to Joel Kavelsmaki’s (PhD Early Christian Studies) observations on Evagrius at NAPS. I would also like to express gratitude to two people whose acquaintance I gained through [Contemplative Outreach of Maryland and Washington](http://contemplativeoutreachofmarylandandwashington.org/). LJ Milone and Steve Thompson each led presentations at various meetings that included Evagrius. Steve has moreover read some of these and provided some helpful critique. Each of you have my thanks.
+
+Alex Poulos  
+Washington, DC  
+July 6, 2020  
+
+
 ## Evagrius’ Prologue
-When I was being consumed by the flames of impure compulsions, you revived me through the touch of your letters, full as they were with love for God. You encouraged my mind while it was laboring with shameful thoughts, thereby imitating the great leader and teacher Macarius. This is not surprising, since like Jacob the “spotted cattle” have always been your portion.[^2] For after serving admirably for the favor of Rachel and receiving Leah, you persistently sought the wife you desired, and served for her another seven years.  I shall not deny that I labored the entire night and caught nothing.[^3] Yet at your word, I let down my nets and caught a multitude of fish, not large ones, yet all the same 153 of them. Through chapters of the same number, I have sent these to you in the large basket of Christian love to fulfill your command.  
+When I was being consumed by the flames of impure compulsions, you revived me through the touch of your letters, full as they were with love for God. You encouraged my mind while it was laboring with shameful thoughts, thereby imitating the great leader and teacher Macarius. This is not surprising, since like Jacob the “spotted cattle” have always been your portion.[^3] For after serving admirably for the favor of Rachel and receiving Leah, you persistently sought the wife you desired, and served for her another seven years.  I shall not deny that I labored the entire night and caught nothing.[^4] Yet at your word, I let down my nets and caught a multitude of fish, not large ones, yet all the same 153 of them. Through chapters of the same number, I have sent these to you in the large basket of Christian love to fulfill your command.  
 
-I’m quite amazed and in awe of your passion for this excellent plan for chapters on prayer. Not only are you eager for the chapters that you can hold in your hand, which owe their existence to ink and paper, but you long for those that become fixed in place in the mind through love and freedom from all grudges. Since “everything is twofold, one after the other”, as the wise Jesus has it,[^4] receive the spirit in addition to the letters of the work. Take note that an intention always directs the letter, since without it, no literary work can come into being. Similarly, prayer is a twofold phenomenon– it has a practical element and a contemplative element. In the same way, numbers are twofold. Their quantity is ready to hand, while each also specifies a specific quality.
+I’m quite amazed and in awe of your passion for this excellent plan for chapters on prayer. Not only are you eager for the chapters that you can hold in your hand, which owe their existence to ink and paper, but you long for those that become fixed in place in the mind through love and freedom from all grudges. Since “everything is twofold, one after the other”, as the wise Jesus has it,[^5] receive the spirit in addition to the letters of the work. Take note that an intention always directs the letter, since without it, no literary work can come into being. Similarly, prayer is a twofold phenomenon– it has a practical element and a contemplative element. In the same way, numbers are twofold. Their quantity is ready to hand, while each also specifies a specific quality.
 
-By dividing this treatise on prayer into 153 chapters, we have caught for you a meal of fish from the Gospel, so that you may discover the delight of symbolic numbers and the outline of this work, which is both triangular and hexagonal, and thereby discloses equally a holy knowledge of the Trinity and an outline of this world. By itself, the number 100 is rectangular. 53 is both triangular and spherical. Now 28 is triangular, while 25 is spherical, since 5x5 is 25… TODO
+By dividing this treatise on prayer into 153 chapters, we have caught for you a meal of fish from the Gospel, so that you may discover the delight of symbolic numbers and the outline of this work, which is both triangular and hexagonal, and thereby discloses equally a holy knowledge of the Trinity and an outline of this world. By itself, the number 100 is rectangular. 53 is both triangular and spherical. Now 28 is triangular, while 25 is spherical, since 5x5 is 25. Therefore you may regard the rectangle as a figure for the four virtues, but also as the knowledge familiar with the facets of this age, as this knowledge resembles the number 25 because of the spherical nature of the passage of time. For week whirls to week and month to month. The time spins from year to year at the movement of the sun and moon, as we see in spring, summer, and the rest of the seasons. The triangle may signify for you knowledge of the Holy Trinity. Yet if through the fully seeing its qualities you grasp that 153 is also triangular, you should may understand that these facets also as practice, understanding of the natural world, and understanding of God, or, as “faith, hope, and love,” as “gold, silver, and precious stones.”  This, then, is the nature of the number. As for the the chapters, do not deride their humble nature, since “you know what it is to love in plenty and not what it is to live in want.” All the more since you are always aware of the one who did not reject the two pennies of the widow but considered them beyond the wealth of many others. So, as one who knows how to guard for your brothers the fruit of love and good-feeling, pray for this one who is sick, that he may be well, take up his mat at once, and walk, through the grace of Christ. Amen!
+
 
 ## 1
 If you wish to prepare a “fragrant offering,” you should combine in equal measure diaphanous frankincense, cassia, the aroma onyx, and myrrh, just as the law requires— these are the four virtues. For when these are perfected and present in equal measure, your mind will not be betrayed to the enemy.
@@ -348,172 +363,176 @@ Just as bread is food for the body, and virtue is for the soul, so also spiritua
 ## 102
 Continue in prayer not like the pharisee, but like the tax collector in the holy place of prayer, so that you too may be made right by God. 
 
-# 103
+## 103
 Strive never to utter a curse against anyone in your prayer, so that you do not destroy what you are building and thereby turn your prayer into something abhorrent. 
 
-# 104
+## 104
 The debtor who owed thousands of talents should be your instructor– if you don’t forgive those you who wrong you, you also will not receive forgiveness. It says, after all, “he handed him over to the guards.”  
 
-# 105
+## 105
 During the state of your prayer, set aside the body’s necessities. Otherwise when bitten by a flea, a fly, or a mosquito or beetle, you’ll lose the greatest profit of your prayer.
 
-# 106
+## 106
 It has come down to us that the devil once opposed one of the holy men to such an extent that as soon as this man stretched out his hands to pray, the devil transformed into a lion, raised his front feet, and fixed his claws into the two flanks of this holy competitor. The devil meant to keep them there until the man set down his hands from prayer. Yet he did not relax his hands until he had finished his normal prayers. 
 
 
-# 107
+## 107
 We have learned that the same sort of thing also happened for the solitary monk of the lake, I mean John the small, who was in fact a supremely great monk. He remained motionless in the presence of God even when the devil appeared to him in the form of a serpent, wrapped itself around him, squeezed his flesh, and spat in his face. 
 
-# 108
+## 108
 You have doubtless also read the Lives of the Monks of Tabennese, where it states that while Abba Theodore was preaching to the brothers, two vipers slithered up to his feet. He treated them as though there were simple beetles and welcomed them in until he had completed his sermon. Then he showed them to the brothers and provided an explanation of the whole matter. 
 
-# 109
+## 109
 Again, of a different spiritual brother we have read that while he was praying a viper came and sank its teeth into his foot. The brother, however, did not set down his hands until he had finished his customary prayer. He was in no way harmed, for he had loved God more than he loved himself. 
 
-# 110
-Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^5] live in accordance with your mind. 
+## 110
+Keep your eye undistracted in your prayer. After renouncing your flesh and your soul,[^6] live in accordance with your mind. 
 
-# 111
+## 111
 Demons once approached another holy man while he was praying in stillness with great vigor in the desert. For two weeks they would toss and throw him into the air and catch him on a mat. Yet they were unable even for a brief moment to draw his mind away from its fiery prayer. 
 
-# 112
+## 112
 Again, two angels once approached another friend of God as he was walking in the desert and exercising great care in his prayer. They came along either side of him and started walking along the way with him. Yet he did not give over all of his attention to them so that he would not lose what was greater. After all, he had kept in mind the statement of the apostle that says, “neither angels nor rulers nor spiritual powers will be able to separate us from love of God.” 
 
-# 113
+## 113
 A monk becomes “equal to the angels” by desiring through true prayer to gaze upon the face of the Father in Heaven. 
 
-# 114
+## 114
 In your prayer, you mustn’t seek to receive any form, shape, or color.
 
-# 115
+## 115
 Do not continue desiring to see with your physical eye angels or spiritual powers or Christ. If you do, even after becoming sovereign over your own mind you might take in a wolf instead of the shepherd and worship the demons that are so hostile to you.
 
-# 116
+## 116
 The origin of a deceived mind is empty glory. When the mind is moved by this, it tries with mental forms and constructs to circumscribe the divine.
 
-# 117
+## 117
 I will now say what I have also said to the younger monks– happy is the mind that at the time of prayer has obtained complete formlessness.
 
-# 118
+## 118
 Happy is the mind that through undistracted praying continually receives greater longing for God.  
 
-# 119
+## 119
 Happy is the mind that at the time of prayer becomes completely detached from material and possessions. 
 
-# 120
+## 120
 Happy is the mind that at the time of prayer possesses complete detachment from the senses.
 
-# 121
+## 121
 Happy is the monk who continues to regard himself as the “refuse of all.”  
 
-# 122
+## 122
 Happy is the monk who regards every human being as one deity after another.
 
-# 123
+## 123
 Happy is the monk who looks eagerly with great delight on the flourishing and advancement of all as though it was his own.  
 
-# 124
+## 124
 A monk is one who is separated from all and joined together with all.  
 
-# 125
+## 125
 A monk is one who seess himself together with all, since he seems again and again to see himself in each person he meets.
 
-# 126
+## 126
 The one truly prays who continually offers the first fruit of their thought to God. 
 
-# 127
+## 127
 Avoid every falsehood and oath, as befits a monk and one who desires to carry out prayer. If you don't, you'll conjecture in vain that which is beyond comparison.
 
-# 128
+## 128
 If you wish to carry out your prayer in the Spirit, have contempt for no one. Then you will not have a darkening fog over you at the time of prayer.
 
-# 129
+## 129
 Entrust the needs of your body to God. It is plain that you must also entrust to God those of your spirit.
 
-# 130
+## 130
 When you obtain the promises, you will preside as a king. So then, by keeping your eye fixed on these, you will easily bear your present poverty.
 
-# 131
+## 131
 Do not go on shirking poverty and affliction, the very stuff of uninhibited prayer.
 
-# 132
+## 132
 Let the virtues of the body serve as collateral for those of the soul, the virtues of the soul as collateral for the virtues of spirit, and these last as surety for knowledge is what is immaterial and exists most fundamentally.
 
-# 133
+## 133
 As you are praying against compulsive thoughts, take careful note, should they withdraw, of the source of this. Otherwise you may fall prey to a trick and in your deception hand yourself over.
 
-# 134
+## 134
 Sometimes demons suggest thoughts to you and thereby incite you to say a prayer against them or to oppose them. They then willingly retreat so that you may be deceived in thinking of yourself that you have begun to conquer thoughts and scare off demons.
 
-# 135
+## 135
 If you are praying against a compulsive thought or a demon that is besieging you, remember the one who says, “I will pursue my enemies and overtake them. I will not turn back until they withdraw. I will afflict them and surely they will not be able to stand. They will fall under my feet,” and the rest (Psalm 17:38-39).￼ At the right moment you should say this, thereby arming yourself with humility against your enemies.
 
-# 136
+## 136
 Don't think that you have obtained virtue until you have endured a battle for it “to the point of blood.”  According to God’s apostle, we must even to the point of death stand against sin like a combatant yet without reproach. 
 
-# 137
+## 137
 If you do something good for someone, you're likely to be contemned by someone else, with the result that you say or do something unfitting because you have been wronged. By this you profligately scatter what you had so carefully gathered. This is the wicked demons’ goal. So pay careful attention!
 
-# 138
-Again and again, accept the awful onslaught of the demons,[^6] all the while planning how you might escape enslavement to them.
+## 138
+Again and again, accept the awful onslaught of the demons,[^7] all the while planning how you might escape enslavement to them.
 
-# 139
+## 139
 At night demons choose to trouble a spiritual teacher through direct activity. During the day, they do it through people— they surround a teacher with crowds, flatterers, and dangers.
 
-# 140
-Do not go on shirking the fuller,[^7] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
+## 140
+Do not go on shirking the fuller,[^8] since even if they beat and stomp, and then stretch and scrub, it is through this that your clothing becomes bright and clean.
 
-# 141
+## 141
 To the degree that you have not rejected compulsions, but have a mind opposed to virtue and truth, you will not find a fragrant offering of incense in your breast.
 
-# 142
+## 142
 The one who has emigrated from these parts and has their “citizenship in heaven” yearns to carry out their prayer at all moments, not only through mere words, but with action like that of angels and a knowledge more divine still.
 
-# 143
+## 143
 If in difficulty you only remember of the judge that he is fear-inducing and exacting, you have not yet learned what it means to “serve the Lord in fear and rejoice in him in trembling.” After all, you should realize that it is in times of spiritual ease and celebration that you must worship him all the more with respect and reverence.
 
-# 144
+## 144
 Prudent is the man who does not put off the bitter memory of his own sins and the just recompense that they deserve in the fire of the age to come until his repentance is perfect. 
 
-# 145
+## 145
 The one who is caught up in their sins and fits of anger and dares brashly to strive for knowledge of more exalted matters, or rather, rushes into immaterial prayer, ought to listen to the apostle’s admonishment that it is not without danger for them to “pray” with a bare “and uncovered head.”  For this sort of soul, he says, “must have a covering of authority on it because of the angels” that are present, which is to say it must clothe itself with a fitting humility and reverence.
 
-# 146
+## 146
 Just as the one who has a disease of the eyes will not benefit from an uncovered view of the sun in broad daylight, similarly receiving a firm impression in one's mind of that prayer that is fearsome and beyond nature, which comes in Spirit and in Truth, is no use at all to the mind that is impure and overwhelmed with compulsion. Quite the opposite: this goads the divine to indignation against it.
 
-# 147
+## 147
 If he who is impartial and lacks nothing has not received the one coming with a gift to the altar, until they are reconciled with the neighbor who is upset with them, take note of how much vigilance and discernment we need to give to God an acceptable offering in the altar of our mind.
 
-# 148
+## 148
 Do not take delight in material things or in your reputation. If you do, “sinners are contriving” not “behind your back” but before your eyes. You will be their plaything at the time of prayer since you'll be dragged about and enticed by them through thoughts of all sorts.
 
-# 149
+## 149
 Attention that has eagerly sought prayer will find it. For even if prayer is something distinct from attention, it follows close behind it, and so we must always strive for it.
 
-# 150
+## 150
 Just as sight is the greatest of the senses, so prayer is the most exalted of the virtues.
 
-# 151
-Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^8] and “but when you all pray, do not babble endlessly.”
+## 151
+Worthy prayer is not simply a matter of quantity, but quality. These passages and those like them make this clear: “they were going up to the temple”[^9] and “but when you all pray, do not babble endlessly.”
 
-# 152
+## 152
 To the degree and proportion that you attend to the body and your mind takes delight in the pleasures of its earthly tent, you have not yet beheld the place of prayer, but its happy road remains still far from you.
 
-# 153
+## 153
 When you become one who stands for prayer in preference to every other joy, then you have truly found prayer. 
+
+# Bibliography
 
 [^1]:	 Indeed, it was my hope to use this translation within a [web app](https://tempora.equul.us) / mobile app to assist in centering prayer. I didn’t get so far as I’d have liked in this endeavor; hopefully I’ll get to polish it up sometime in the coming months.
 
-[^2]:	A reference to Jacob’s agreement with Laban, narrated in Genesis 30, wherein Jacob would receive the spotted livestock as his wages for his service. Laban removed the speckled cattle before handing over the cattle to Jacob, but Jacob responded by using special staffs at breeding time to produce spotted cattle. 
+[^2]:	@gehinevagre2017 
 
-[^3]:	Now Evagrius shifts his allusion to John 21, where the disciples have been fishing all night and caught nothing. 
+[^3]:	A reference to Jacob’s agreement with Laban, narrated in Genesis 30, wherein Jacob would receive the spotted livestock as his wages for his service. Laban removed the speckled cattle before handing over the cattle to Jacob, but Jacob responded by using special staffs at breeding time to produce spotted cattle. 
 
-[^4]:	See. Sirach 42:24. Note the “wise Jesus” isJesus Ben Sira, not Jesus of Nazareth.  
+[^4]:	Now Evagrius shifts his allusion to John 21, where the disciples have been fishing all night and caught nothing. 
 
-[^5]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
+[^5]:	See. Sirach 42:24. Note the “wise Jesus” isJesus Ben Sira, not Jesus of Nazareth.  
 
-[^6]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
+[^6]:	Evagrius clearly has in mind Jesus’ words, “whoever seeks to save his life/soul (*psyche*) will lose it, but whoever loses his life/soul for my sake will find it.”  (TODO: insert reference)
 
-[^7]:	That is, someone who washes clothes.
+[^7]:	Reading the adjective επαχθεις not the participle επαχθεις as printed. Géhin prints the participle but translates as an adjective.
 
-[^8]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
+[^8]:	That is, someone who washes clothes.
+
+[^9]:	Luke 18:10, which introduces the parable of the penitent tax collector and the proud Pharisee.
