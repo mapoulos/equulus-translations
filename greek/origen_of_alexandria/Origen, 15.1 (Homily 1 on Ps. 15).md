@@ -42,7 +42,17 @@ Therefore, whatever we do for Christ’s body, the church, and for Christ’s bo
 
  
 However, you shouldn’t think it a trivial thing to sin even against a non-Christian. When you sin against a non-Christian, notice their beginning, notice God’s words in Genesis, “Let us make humanity according to our image and likeness.” If you take this out of consideration,[^10] then sinning against a Christian and sinning against a person is no longer actually sin. In this category of creatures made “in the image of the creator” are also angels, powers, and authorities.  Now if you remove from consideration sinning against a person, sinning against a brother or sister, or sinning against one made “in the image of the creator,” you may do whatever you wish to an irrational animal. Slaughter it, kill it, you’re not committing a sin against the animal. After all, the nature of sin does not extend to animals, as they lack reason. Once cannot say, “I committed injustice against an animal; I was greedy against an animal, or I did something of this sort.” And yet “the blood of your lives I shall seek from every brother and from every beast” (cf. Gen. 9:5). Therefore, you, as a person, are capable of being wronged. But by nature, an irrational animal cannot suffer wrong.
+ Now that is enough of a digression on the words, “protect me, Lord.”
+
   
+
+## 4
+Now the reason I need to be protected by the Lord he states as, “for I have hoped in you.”  I have the confidence to say, “protect me Lord” because I have hoped in him.  I can confidently say that I need the one who says, “protect me,” that I am his body part and because of him I place my hope in God. In every season we are in fact in great need of the Lord’s protection. Whenever we are not protected, even if we are left to our own devices for just a short time, we at once fall headlong into temptations and in our abandonment we realize that the Lord has, in a certain sense, forgotten us, as we explained yesterday.  And yet, the one being tempted “will not be forgotten forever.”  Paul says, “we are pursued but not abandoned.”  We need so much protection that God commands his angels so that our feet won’t “strike against a stone” (cf. Ps 90:11–12).  
+
+
+
+We need his protection when we are traveling, “for the angel of the Lord will encircle around those who fear him and deliver them.”  We need angelic help so that we can say, “it is the angel of the Lord, who delivers me from every evil” (Gn. 48:16).   
+
 
 [^1]:	Perrone writes, οὐκ ἐν πλαξὶ λιθίναις [στήλαις] (suppressing στήλαις, steles,  in favor of πλαξί, tablets). It seems to me slightly more likely that πλαξί has intruded inappropriately from 2 Cor 3:3 (which Origen has just cited) and should be suppressed instead (I’d print: οὐκ ἐν [πλαξὶ] λιθίναις στήλαις).  
 
