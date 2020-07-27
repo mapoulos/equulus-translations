@@ -82,6 +82,19 @@ Now in the second explanation, “all of God’s plans” are revealed to those 
 
 ## 7
 
+Then it would seem something unclear is said. Pray with me through this unclarity! The passage says, “their weaknesses multiplied; after this, they moved quickly.” Who is the “their”? Those in the holy land. After all, whether we are speaking about those about to come into the holy land, or those already in it, in either case “their weaknesses multiplied, after this they moved quickly.”  Since “power is made perfect in weakness,” the holy person is powerful when they are weak, and because the righteous take pleasure when facing weakness, insults, dire needs, persecutions, and periods of want, and since “many are the afflictions of the righteous,” it is clear that it is the weaknesses of the righteous that multiplied. When the weaknesses of the righteous multiply, those moving toward the good quickly hasten toward God (as he helps them in their movement).  For this reason, even if you want to hurry in your travel toward the good, do not hesitate to delight in weaknesses and to become the sort of person who can say, “when I am weak, then I am strong” (2 Cor 12:10).  “Their weaknesses multiplied” because “many are the afflictions of the righteous.”  “After these they moved quickly,” so after many experiences of weakness, “after these they moved quickly.” 
+
+
+
+
+
+
+
+
+
+
+
+
 [^1]:	Perrone writes, οὐκ ἐν πλαξὶ λιθίναις [στήλαις] (suppressing στήλαις, steles,  in favor of πλαξί, tablets). It seems to me slightly more likely that πλαξί has intruded inappropriately from 2 Cor 3:3 (which Origen has just cited) and should be suppressed instead (I’d print: οὐκ ἐν [πλαξὶ] λιθίναις στήλαις).  
 
 [^2]:	Perrone conjectures καὶ μ\<έντοι\> διὰ τοῦτο σαρκίνην (the bits after καὶ are unclear in the text. I suggest instead that the scribe (and Origen) wrote instead καὶ λεγομένην διὰ τοῦτο σαρκινήν, and have translated so above.
