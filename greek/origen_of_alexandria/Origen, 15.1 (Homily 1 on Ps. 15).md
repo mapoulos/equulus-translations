@@ -86,6 +86,8 @@ Then it would seem something unclear is said. Pray with me through this unclarit
 
 “I shall certainly not gather their gatherings of blood.” I must gather together those whose “weaknesses have multiplied” and who “after these, moved quickly.”     And yet, you men of blood, whom the Lord detests, for “the Lord detests a deceitful man of blood” (Ps 5:7), realize that when you are sinners, you are not gathered together, as he says, “I shall certainly not gather their gatherings of blood.” If you are to be gathered to the face of Christ, you must be pure from blood and contamination, from murder and from violence. Clearly it is the figure of Christ that gathers together these “gatherings” not “of blood,” as he also says, “for holy ones are born not by blood nor by the desire of the flesh nor by the desire of man, but by God” (Jn 1:13).  
 
+This is why he says, “I shall certainly not gather their gatherings of blood, nor shall I remember their names on my lips.”  Granted, “their weaknesses multiplied,”  they were saved because of God, and “after these, they moved quickly,” and then the bit, “I shall certainly not gather they gatherings of blood.”  How can we attribute to this same group the passage, “nor shall I remember their names through my lips?”  “I shall not remember superficially those who will be saved,” he means, “but deep in the heart I shall remember them.” After all, you see how lips refer to the surface in the passage, “this people honors me with their lips, but their heart is far from me” (Is 29:13). So he’s saying, “I will not honor with my lips these whom I’ll gather. I’ll honor these whose ‘weaknesses multiplied’ and who ‘after these moved quickly’ deep in my heart.”
+
 
 
 
